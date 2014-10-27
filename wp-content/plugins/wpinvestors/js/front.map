@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "front.js",
+  "sourceRoot": "",
+  "sources": [
+    "front.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;AAAA,EAAA,CAAA;AAAA,IAAA,MAAA,EAAQ,EAAR;GAAA,CAAA,CAAA;AAAA"
+}

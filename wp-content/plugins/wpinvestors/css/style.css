@@ -1,0 +1,41 @@
+.button {
+  color: red; }
+
+#wpfooter {
+  display: none; }
+
+/*Share Price Ticker*/
+.ticker-drop-options {
+  margin-left: 20px; }
+
+.ticker-box {
+  width: 250px; }
+  .ticker-box .ticker-box-top {
+    font-size: 20px;
+    border-bottom: 1px solid #000;
+    padding-bottom: 5px; }
+    .ticker-box .ticker-box-top .green-text {
+      display: inline-block;
+      padding-left: 10px;
+      color: lime; }
+  .ticker-box .ticker-box-bottom {
+    padding-top: 5px;
+    border-top: 1px solid #000; }
+  .ticker-box .form-table td {
+    padding: 0px; }
+
+.investor-table {
+  border-bottom: 5px solid #000; }
+  .investor-table th, .investor-table td {
+    text-align: center; }
+  .investor-table tr:not(:first-child) {
+    border-top: 1px solid #000; }
+
+.investor-button {
+  float: right; }
+  #post-body-content .investor-button {
+    margin: 10px;
+    background: #2ea2cc;
+    border-color: #0074a2;
+    color: #fff;
+    text-decoration: none; }
